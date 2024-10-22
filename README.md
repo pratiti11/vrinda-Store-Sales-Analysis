@@ -1,3 +1,4 @@
+![Screenshot (2)](https://github.com/user-attachments/assets/f2546dc5-293d-483d-b91a-e4c2fc69a992)
 # vrinda-store-Sales-Analysis
 Welcome to the Vrinda Store Sales Analysis project repository! This project is focused on analyzing the sales performance of Vrinda Store for the year 2022. By leveraging data cleaning, processing, analysis, and visualization in Excel, we have derived key insights to support informed decision-making and strategic planning.
 # OBJECTIVE
